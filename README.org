@@ -6,3 +6,8 @@
   and VDSL transmissions, for a given choice of frequency plan.
 
   The supported DSL's are ADSL2, VDSL, ADSL2+ (all frequency plans)
+
+** Reference Documents
+   ADSL2 :  [[http://www.itu.int/rec/T-REC-G.992.3-200904-I/en][ITU G.992.3]]
+   ADSL2+:  [[http://www.itu.int/rec/T-REC-G.992.5-200901-I/en][ITU G.992.5]]
+   VDSL  :  [[http://www.itu.int/rec/T-REC-G.993.2-200602-S/en][ITU G.993.2]]
