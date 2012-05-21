@@ -1,0 +1,8 @@
+* Framing for DSL modems
+
+  The project involved the development of an algorithm to minimize the
+  number of firmware test cases for the framing parameters. Also an interface was developed
+  in Matlab to enable easy entry of input parameters to obtain the framing parameters in ADSL
+  and VDSL transmissions, for a given choice of frequency plan.
+
+  The supported DSL's are ADSL2, VDSL, ADSL2+ (all frequency plans)
