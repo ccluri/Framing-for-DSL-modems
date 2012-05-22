@@ -7,6 +7,8 @@
 
   The supported DSL's are ADSL2, VDSL, ADSL2+ (all frequency plans)
 
+  This work was done under the guidance of Umashankar Thyagarajan
+
 ** Reference Documents
    ADSL2 :  [[http://www.itu.int/rec/T-REC-G.992.3-200904-I/en][ITU G.992.3]]
    ADSL2+:  [[http://www.itu.int/rec/T-REC-G.992.5-200901-I/en][ITU G.992.5]]
